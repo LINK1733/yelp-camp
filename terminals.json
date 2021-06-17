@@ -1,0 +1,15 @@
+{
+    "autorun": true,
+    "autokill": true,
+    "terminals": [
+        {
+            "name": "GIT",
+            "description": "For running git commands",
+            "open": true,
+            "focus": true,
+            "commands": [
+                
+            ]
+        }
+    ]
+}
